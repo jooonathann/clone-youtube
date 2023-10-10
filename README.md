@@ -1,6 +1,6 @@
 # youtube-clone
 
-Full Stack Development course by NeetCode building a youtube clone
+Full Stack Development course by NeetCode building a youtube clone using Google Cloud, Firebase and NextJs
 
 ## The server was made with
 
