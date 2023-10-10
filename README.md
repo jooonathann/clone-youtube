@@ -1,6 +1,6 @@
 # youtube-clone
 
-Full Stack course by NeetCode building a youtube clone
+Full Stack Development course by NeetCode building a youtube clone
 
 ## The server was made with
 
